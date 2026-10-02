@@ -1,0 +1,2 @@
+[2026-10-02 20:42:15,480] 40 root - INFO - Converted 11055 rows from /Users/deepshah/mlops/Network_Data/phisingData.csv
+[2026-10-02 20:42:24,014] 64 root - INFO - Inserted 11055 records into DeepShah.NetworkData
