@@ -1,0 +1,6 @@
+setup.py
+networksecurity.egg-info/PKG-INFO
+networksecurity.egg-info/SOURCES.txt
+networksecurity.egg-info/dependency_links.txt
+networksecurity.egg-info/requires.txt
+networksecurity.egg-info/top_level.txt
